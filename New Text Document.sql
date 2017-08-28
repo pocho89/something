@@ -1,0 +1,1 @@
+select * from stsc.udt_sku
